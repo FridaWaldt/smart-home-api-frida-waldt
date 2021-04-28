@@ -7,13 +7,28 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "keywords": ["express", "education", "API design", "express-sse", "lowdb"],
-  "author": "",
+  "keywords": [
+    "express",
+    "education",
+    "API design",
+    "express-sse",
+    "lowdb"
+  ],
+  "author": "Frida Waldt",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "express-sse": "^0.5.3",
     "lowdb": "^1.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FridaWaldt/smart-home-api-frida-waldt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FridaWaldt/smart-home-api-frida-waldt/issues"
+  },
+  "homepage": "https://github.com/FridaWaldt/smart-home-api-frida-waldt#readme"
 }
